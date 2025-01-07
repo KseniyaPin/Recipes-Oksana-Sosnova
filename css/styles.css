@@ -177,7 +177,7 @@ img {
     height: 640px;
     text-align: center;
     background-color: var(--primary-text-color);
-    background-image: url('../images/dark-bg.jpg');
+    background-image: url('../images/dark-bg.gif');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
